@@ -25,7 +25,7 @@ SECRET_KEY = 'd$x2on*!#^_bw5!q)^z=so6g97f=-@0@6dd=4=vauzm-t%6qwe'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pyxurupita.xxx']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
